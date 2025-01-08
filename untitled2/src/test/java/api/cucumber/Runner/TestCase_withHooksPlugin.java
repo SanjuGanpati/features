@@ -12,5 +12,5 @@ import org.junit.runner.RunWith;
                // "json:target/report.json",
                // "junit:target/report.xml"},
 
-public class TestCase_withHooksPlugin {
+public classs TestCase_withHooksPlugin {
 }
