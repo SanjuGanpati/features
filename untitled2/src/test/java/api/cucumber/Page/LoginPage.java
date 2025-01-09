@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class LoginPageee {
+public class LoginPage {
     private WebDriver driver;
     private By txt_username = By.id("username");
     private By txt_password = By.id("password");
